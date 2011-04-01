@@ -8,3 +8,5 @@ for radical and backward-incompatible changes to the code.
 For more information check:
     * Satchless homepage: http://satchless.com
     * and docs: http://docs.satchless.com
+
+We also celebrate April Fools.
